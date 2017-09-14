@@ -12,6 +12,8 @@
 		7428FD5B1F6A17AA00D25708 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7428FD591F6A17AA00D25708 /* Main.storyboard */; };
 		7428FD5D1F6A17AA00D25708 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7428FD5C1F6A17AA00D25708 /* Assets.xcassets */; };
 		7428FD601F6A17AA00D25708 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7428FD5E1F6A17AA00D25708 /* LaunchScreen.storyboard */; };
+		7428FD681F6A182100D25708 /* PinPoint.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7428FD671F6A182100D25708 /* PinPoint.swift */; };
+		7428FD6A1F6A1AC100D25708 /* 다운로드.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 7428FD691F6A1AC100D25708 /* 다운로드.jpeg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +24,8 @@
 		7428FD5C1F6A17AA00D25708 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		7428FD5F1F6A17AA00D25708 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		7428FD611F6A17AA00D25708 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		7428FD671F6A182100D25708 /* PinPoint.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PinPoint.swift; sourceTree = "<group>"; };
+		7428FD691F6A1AC100D25708 /* 다운로드.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "다운로드.jpeg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +60,8 @@
 			children = (
 				7428FD551F6A17AA00D25708 /* AppDelegate.swift */,
 				7428FD571F6A17AA00D25708 /* ViewController.swift */,
+				7428FD671F6A182100D25708 /* PinPoint.swift */,
+				7428FD691F6A1AC100D25708 /* 다운로드.jpeg */,
 				7428FD591F6A17AA00D25708 /* Main.storyboard */,
 				7428FD5C1F6A17AA00D25708 /* Assets.xcassets */,
 				7428FD5E1F6A17AA00D25708 /* LaunchScreen.storyboard */,
@@ -125,6 +131,7 @@
 			files = (
 				7428FD601F6A17AA00D25708 /* LaunchScreen.storyboard in Resources */,
 				7428FD5D1F6A17AA00D25708 /* Assets.xcassets in Resources */,
+				7428FD6A1F6A1AC100D25708 /* 다운로드.jpeg in Resources */,
 				7428FD5B1F6A17AA00D25708 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -138,6 +145,7 @@
 			files = (
 				7428FD581F6A17AA00D25708 /* ViewController.swift in Sources */,
 				7428FD561F6A17AA00D25708 /* AppDelegate.swift in Sources */,
+				7428FD681F6A182100D25708 /* PinPoint.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
